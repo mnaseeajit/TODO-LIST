@@ -179,6 +179,7 @@ button:hover {
 #searchInput{
      background-color: #262626;
      margin : 5px 1px;
+     color : white;
 }
 @media screen and (max-width: 500px){
     
